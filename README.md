@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning at University of Moratuwa
 - 📫You can reach me at romainchrishani@gmail.com
 
+<img src="https://github-readme-stats.vercel.app/api?username=romainchrishani&&show_icons=true&title_color=ffc0cb&icon_color=bb2acf&text_color=ffc0cb&bg_color=151515">
 
 
 
