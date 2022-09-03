@@ -8,7 +8,7 @@
 - 📫You can reach me at romainchrishani@gmail.com
 
 <h2>📊 My GitHub Stats </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=romainchrishani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=romainchrishani&&show_icons=true&theme=dracula">
 
 <h2>🚀 Languages and Tools </h2>
 <p float="left">
@@ -20,7 +20,7 @@
 
 <h2>Most used Languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainchrishani&layout=compact)](https://github.com/romainchrishani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainchrishani&layout=compact&theme=dracula)](https://github.com/romainchrishani/github-readme-stats)
 
 
 
