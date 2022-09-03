@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @romainchrishani
+- 👋 Hi there, I’m @romainchrishani
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning at University of Moratuwa
+- 📫You can reach me at romainchrishani@gmail.com
+
+
 
 
 <!---
