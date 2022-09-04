@@ -10,6 +10,9 @@
 <h2>📊 My GitHub Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=romainchrishani&&show_icons=true&theme=dracula">
 
+<h2>📊Most used Languages</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainchrishani&layout=compact&theme=dracula)](https://github.com/romainchrishani/github-readme-stats)
+
 <h2>🚀 Languages and Tools </h2>
 <p float="left">
 <img src="https://user-images.githubusercontent.com/63338864/188255239-05623a33-ac6a-4798-802b-7a944d4efbf5.png"><img src="https://user-images.githubusercontent.com/63338864/188255263-113bbb5d-c5c2-4f79-aef4-400dc1ef6e42.png">
