@@ -18,12 +18,6 @@
 <img src="https://user-images.githubusercontent.com/63338864/188255700-2c9a071a-38ea-4789-9853-367fb652bc98.png">
 </p>
 
-<h2>📊Most used Languages</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainchrishani&layout=compact&theme=dracula)](https://github.com/romainchrishani/github-readme-stats)
-
-
-
 
 
 
