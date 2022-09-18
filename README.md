@@ -7,9 +7,6 @@
 - 🌱 I’m currently learning at University of Moratuwa
 - 📫You can reach me at romainchrishani@gmail.com
 
-<h2>Checkout My Personal Website</h2>
-<h3><a href="https://personal-portfolio-4d131.web.app/">Check Out!</a>
-
 <h2>📊 My GitHub Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=romainchrishani&&show_icons=true&theme=dracula">
 
