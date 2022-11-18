@@ -5,7 +5,7 @@
 - 👋 Hi there, I’m @romainchrishani
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning at University of Moratuwa
-- 📫You can reach me at romainchrishani@gmail.com or <a href="https://romain-c-s-personal-web.web.app/"> by My Portfolio </a>
+- 📫You can reach me at romainchrishani@gmail.com or by <a href="https://romain-c-s-personal-web.web.app/"> My Portfolio </a>
 
 <h2>📊 My GitHub Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=romainchrishani&&show_icons=true&theme=dracula">
