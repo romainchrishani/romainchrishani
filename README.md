@@ -5,7 +5,7 @@
 - 👋 Hi there, I’m @romainchrishani
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning at University of Moratuwa
-- 👩‍💻 I'm currently work at <a href="https://www.axiatadigitallabs.com/">Axiata Digital Labs</a>
+- 👩‍💻 I'm currently work at <a href="https://www.axiatadigitallabs.com/">Axiata Digital Labs</a> as a Software Engineering Intern
 - 📫You can reach me at romainchrishani@gmail.com or by <a href="https://romain-c-s-personal-web.web.app/"> My Portfolio </a>
 
 <h2>📊 My GitHub Stats </h2>
