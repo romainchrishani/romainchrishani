@@ -8,6 +8,12 @@
 - 👩‍💻 Former Software Engineering Intern at <a href="https://www.axiatadigitallabs.com/">Axiata Digital Labs</a> 
 - 📫You can reach me at romainchrishani@gmail.com or by <a href="https://romain-c-s-personal-web.web.app/"> My Portfolio </a>
 
+<div align="center" width="50">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=romainchrishani&color=blue)
+  
+</div>
+
 <h2>📊 My GitHub Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=romainchrishani&&show_icons=true&theme=dracula">
 
