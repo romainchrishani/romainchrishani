@@ -6,14 +6,7 @@
 - 👀 I’m interested in programming 
 - 📫You can reach me at romainchrishani@gmail.com
 
-<div align="center" width="50">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=romainchrishani&color=blue)
-  
-</div>
-
-<h2>📊 My GitHub Stats </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=romainchrishani&&show_icons=true&theme=dracula">
 
 <h2>📊Most used Languages</h2>
 
